@@ -1,0 +1,16 @@
+{
+  "firstname": "Fullstack",
+  "lastname": "Nator",
+  "discord": "fullstacknator",
+  "github": "fullstacknator",
+  "personalityType": "blue",
+  "birthYear": "1975",
+  "zodiac": {
+    "name": "Leo",
+    "element": "fire",
+    "stone": "onyx",
+    "symbol": "♌",
+    "dateMin": "2000-07-23",
+    "dateMax": "2000-08-22"
+  }
+}
