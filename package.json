@@ -1,0 +1,37 @@
+{
+  "name": "f_stack-dot-js",
+  "version": "1.1.0",
+  "description": "𝄢_stack-dot-js is an educational project framework meant to provide a full technical for learning purposes.",
+  "main": "app.js",
+  "scripts": {
+    "start": "pm2 stop all && pm2 start www/server.js && node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "pm2 stop all && node www/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rymdpeter/frontend1-javascript.git"
+  },
+  "author": "Peter Karlsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rymdpeter/frontend1-javascript/issues"
+  },
+  "homepage": "https://github.com/rymdpeter/frontend1-javascript#readme",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.10",
+    "open": "^8.4.0",
+    "prompt-sync": "^4.2.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "pm2": "^5.2.0",
+    "sha256": "^0.2.0",
+    "uuid": "^9.0.0",
+    "zodiac-signs": "^1.1.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Corpus",
+    "locale": "sv-SE",
+    "data": [
+      {
+        "intent": "greeting",
+        "utterances": [
+          "Hej",
+          ""
+        ],
+        "answers": [
+          "",
+          ""
+        ]
+      }
+    ]
+}

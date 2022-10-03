@@ -1,0 +1,10 @@
+.env
+.vscode*
+
+node_modules
+
+# data/dev/*
+# !data/dev/.*
+
+secrets.json
+
