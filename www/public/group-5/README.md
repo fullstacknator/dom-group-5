@@ -114,7 +114,7 @@ On Wednesday, each group presents:
 
 # 🔆 About codepen.io project
 
-1.
+1. Gustavs Codepen projects: https://codepen.io/isladjan/pen/bGpjZwN https://codepen.io/abxlfazl/pen/VwKzaEm
 2.
 3.
 4.
