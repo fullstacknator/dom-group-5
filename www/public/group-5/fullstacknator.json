@@ -5,6 +5,9 @@
   "github": "fullstacknator",
   "personalityType": "blue",
   "birthYear": "1975",
+  "contactInfo": "070959595, example@mail.com",
+  "timeProductive": "In the mornings",
+  "dreamJob?": "King",
   "zodiac": {
     "name": "Leo",
     "element": "fire",

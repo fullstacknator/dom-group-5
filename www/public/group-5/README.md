@@ -37,16 +37,21 @@ On Wednesday, each group presents:
 ## 🔆 What kind of information you are comfortable sharing within the class and publicly.
 
 - Only what I authorize explicitly by written.
+- Name 
+- Age
+- E-mail
+- Phone number
+- 
+-
 - ❓
--
--
 
 ## 🔆 How do you learn better?
 
-1. Learning by doing.
-2. Learning by Listening.
-3. Learning by Watching.
-4. ❓
+1. Learning by doing. Practicing with code that the teacher sends out. For example using webpages that teach coding (w3schools, Codecademy). 
+2. Discussing in groups.
+3. Learning by Listening.
+4. Learning by Watching youtube and student collegues.
+5. ❓
 
 ## 🔆 What time are you more productive?
 
@@ -63,7 +68,7 @@ On Wednesday, each group presents:
 4. I just can not focus, I want to leave and do something else.
 5. ❓
 
-## 🔆 Schedule of availability to study/meet
+## 🔆 Schedule of availability to study/meet (At what time can you meet this week (enter day and time))
 
 1. Mon-Fri 8-17
 2. Mon-Fri 8-12
@@ -107,7 +112,7 @@ On Wednesday, each group presents:
 2. **Code:**
 
 - How to search what to study if we do not have the fundamentals?
--
+- Remembering different commands
 -
 -
 -
@@ -115,7 +120,7 @@ On Wednesday, each group presents:
 # 🔆 About codepen.io project
 
 1. Gustavs Codepen projects: https://codepen.io/isladjan/pen/bGpjZwN https://codepen.io/abxlfazl/pen/VwKzaEm
-2.
+2. https://emetha.github.io/#/ 
 3.
 4.
 
