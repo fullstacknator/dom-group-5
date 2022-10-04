@@ -114,8 +114,8 @@ On Wednesday, each group presents:
 
 # 🔆 About codepen.io project
 
-1. https://codepen.io/jkantner/pen/YzLQoXM https://codepen.io/jh3y/pen/LYNZwGm // Jonathans interresting codepen projects.
-2. 
+1. 
+2. https://codepen.io/jkantner/pen/YzLQoXM https://codepen.io/jh3y/pen/LYNZwGm // Jonathans interresting codepen projects.
 3.
 4.
 
