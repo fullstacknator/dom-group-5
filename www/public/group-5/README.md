@@ -90,7 +90,7 @@ On Wednesday, each group presents:
 
 - Preferences:
 
--
+- Favourite hobby:
 -
 -
 
@@ -114,8 +114,8 @@ On Wednesday, each group presents:
 
 # 🔆 About codepen.io project
 
-1.
-2.
+1. https://codepen.io/jkantner/pen/YzLQoXM // Jonathans Project
+2. 
 3.
 4.
 
