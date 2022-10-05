@@ -6,7 +6,7 @@
   "scripts": {
     "start": "pm2 stop all && pm2 start www/server.js && node app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "pm2 stop all && node www/server.js"
+    "server": "node www/server.js"
   },
   "repository": {
     "type": "git",

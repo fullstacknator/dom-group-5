@@ -1,0 +1,30 @@
+{
+  "frontend": [
+    {"html": [ "semantic", "reponsibity", "bootstrap", "RegEx", "captcha", {"good practices": ["id", "class", "a", "forms" ]} ]},  
+    {"security": ["crossite attacks (XXS-injection)"]},
+    {"css": [ {"animations": ["carousels"]}, "flexbox", "grid"]},
+    {"sass": "BEM"},
+    {"javascript": ["arrays", "objects", "classes", {"good practices": ["variables", "functions", "classes"]} ]},
+    {"ux": {"accesibility": ["aria labels"]}},  
+    {"GitHub": ["structure", "git commands", "markdown"]}  
+  ],
+  "Backend": [
+    {"php": true},
+    {"docker": true},
+    {"nodejs": ["dependencies", "modules"]},
+    {"security": ["SQL-injections", "validation", "sanitize", "htmlspecialchars()"]}, 
+    {"databases": ["mysql","pdo", "relational dabatases", "hierarchical databases", "ER-model"]},
+    {"servers": ["nginx", "xamp", "wamp"]},
+    {"commands": ["cURL", "composer"]},
+    {"frameworks": ["react", "angular", {"laravel":["model", "controller", "view"]}, "routing"]},
+    {"REST full methods": ["GET", "POST", "PATCH", "DELETE", "PUT"]},
+    {"api": "integration"}, 
+    {"tools": ["postman", "insomnia"]},
+    {"wordpress": "deployment/integration"},
+    {"deployment": ["static", "dynamic"]},
+    {"good practices": ["naming models"]}
+  ],
+  "management": [
+    "agile methods", {"github": ["project", "kanban", "issues", "stories"]}
+  ]
+}

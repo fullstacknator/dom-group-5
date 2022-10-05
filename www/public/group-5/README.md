@@ -134,6 +134,11 @@ On Wednesday, each group presents:
 - **Repository**:
   https://github.com/fullstacknator/dom-group-5
 
+# Teorihandbok
+
+1. fetch() ---> https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+2.
+
 # AGENDA
 
 1. We meet again
